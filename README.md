@@ -2,7 +2,7 @@
 
 > The easiest way to split 3D models in Blender for 3D printing.
 
-![CutMode Banner](images/cutmode.png)
+![CutMode Banner](cutmode.png)
 
 ## Features
 
