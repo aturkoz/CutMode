@@ -62,13 +62,6 @@ https://youtu.be/wIgf0kG3_RM
 
 ---
 
-# 🖼 Preview
-
-More screenshots and tutorials will be added soon.
-
----
-
-# 🛣 Roadmap
 
 ## Completed
 
@@ -79,29 +72,15 @@ More screenshots and tutorials will be added soon.
 - ✅ Adjustable Connector Settings
 - ✅ Undo Last Cut
 
-## Coming Soon
-
-- ⏳ Magnet Connectors
-- ⏳ Dovetail Connectors
-- ⏳ Puzzle Connectors
-- ⏳ Pin Connectors
-- ⏳ Batch Cutting
-- ⏳ More Connector Types
-- ⏳ Performance Improvements
+---
 
 ---
 
-# ❤️ Support
+### ⭐ Enjoying CutMode?
 
-If you enjoy CutMode, please consider:
+If this project saves you time, please consider giving it a ⭐ on GitHub!
 
-⭐ Starring this repository
-
-📺 Watching the YouTube tutorial
-
-🐞 Reporting bugs and suggesting new features
-
-Your feedback helps improve CutMode for everyone!
+**Every Star helps the project grow! ❤️**
 
 ---
 
